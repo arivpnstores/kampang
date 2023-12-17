@@ -2,7 +2,7 @@
 # Script By DIYVPN
 # ==================================================
 #wget https://github.com/${GitUser}/
-GitUser="onexd77"
+GitUser="arivpnstores"
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
 OS=`uname -m`;
